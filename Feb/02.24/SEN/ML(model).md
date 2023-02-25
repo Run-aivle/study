@@ -33,7 +33,7 @@
   ```
 - GridSearchCV
   - 범위에 있는 모든 값들로 튜닝
-    ```
+  ```
   parmas = {'파라터': 값}
   model = RandomSerchCV(model,
                         params,
