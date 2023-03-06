@@ -19,7 +19,7 @@
 - XGBoost Regressor
 - LGBM Regressor
 
-**분류 회귀 문제 파악하고, 맞는 모델과 성가지표 사용하기 **
+**분류 회귀 문제 파악하고, 맞는 모델과 성가지표 사용하기**
 
 # 파라미터 튜닝
 - RadomSearchCV
